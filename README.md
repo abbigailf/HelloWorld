@@ -19,7 +19,5 @@ The programming language I used:
 - C#
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 * [Microsoft Learn .Net documentation](https://learn.microsoft.com/en-us/dotnet/)
 * [GitHub](https://github.com/)
