@@ -12,3 +12,4 @@ C:\Users\james\Documents\BYU Pathways\Block 4\CSE 310 Applied Programming\Hello 
 C:\Users\james\Documents\BYU Pathways\Block 4\CSE 310 Applied Programming\Hello World\obj\Debug\net10.0\Hello World.pdb
 C:\Users\james\Documents\BYU Pathways\Block 4\CSE 310 Applied Programming\Hello World\obj\Debug\net10.0\Hello World.genruntimeconfig.cache
 C:\Users\james\Documents\BYU Pathways\Block 4\CSE 310 Applied Programming\Hello World\obj\Debug\net10.0\ref\Hello World.dll
+C:\Users\james\Documents\BYU Pathways\Block 4\CSE 310 Applied Programming\Hello World\obj\Debug\net10.0\Hello World.sourcelink.json

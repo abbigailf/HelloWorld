@@ -5,7 +5,7 @@ This project is a simple Hello World program written in C#.
 The purpose of this assignment is to be able to verify my development environment and demonstrate the process of publishing code to GitHub.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+Software Demo Video is unlisted
 
 # Development Environment
 
